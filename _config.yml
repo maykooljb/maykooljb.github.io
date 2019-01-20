@@ -7,7 +7,7 @@ title:            Maykool Blog
 tagline:          A kool blog
 description:      "A blog for learning and document stuffs I do on my day to day..."
 url:              https://www.linkedin.com/in/maykol-alberto-jimenez-bejarano-8a747b44/
-baseurl:          https://maykooljb.github.io
+baseurl:          https://maykooljb.github.io/
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
