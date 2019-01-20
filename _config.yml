@@ -1,0 +1,31 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            Maykool BLog
+tagline:          A kool blog
+description:      "A blog for learning and document stuffs I do on my day to day..."
+url:              https://www.linkedin.com/in/maykol-alberto-jimenez-bejarano-8a747b44/
+baseurl:          /
+                  # the optional subpath of your site, e.g. "/my-jekyll-site/"
+                  # This will apply to all pages in your Jekyll site.
+
+author:
+  name:           Maykool Jimenez
+#  url:            https://twitter.com/karloespiritu
+
+paginate:         5
+# paginate_path:    '/page:num'
+                    # Or '/my-jekyll-site/page:num' if you want to move your index pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Custom vars
+version:            0.0.1
+
+github:
+  repo:             https://github.com/maykooljb/maykooljb.github.io
