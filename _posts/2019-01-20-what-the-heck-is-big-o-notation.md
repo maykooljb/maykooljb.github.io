@@ -3,10 +3,8 @@ layout: post
 title: What the heck is Big O notation
 ---
 
-# What the heck is Big O notation?
-
 ## TL;DR
-In short “Big O notation” is way to express mathematically (with an small equation) how much will increase the time it takes for a function to complete, based on the length of data is inputted in the worst case scenario.
+“Big O notation” is way to express mathematically (with an small equation) how much will increase the time it takes for a function to complete, based on the length of data is inputted in the worst case scenario.
 
 ## All right!, now, how is this relevant in software development? 
 One of the most important tasks for most of the systems we develop daily is to apply operations to big lists of data (some of a few thousands, other of millions of records), like sorting, ordering, transforming, and others. Having a good performance on the functions that do those operations is extremely important, nobody wants to get a call because the system has 24 hours running the data load, right?  Here is where Big O notation will help you to detect/predict the performance or time of completion of a function based on length of data is inputted in **the worst case scenario** (in other words if for a random reason the function omitted all our: if/then, exit/continue, etc checks, and has to iterate over each element of the array).
