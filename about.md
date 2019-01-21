@@ -9,7 +9,7 @@ title: About
 
 ## About Me
 
-I'm Maykool Jimenez. I live in Costa Rica, with my wife,three children and two dogs. Working as an outsorce software developer since 2007 most of it as outsorcing with experience in different industries (bank, finance, insurance, health care), mostly related to Microsoft technologies with .Net (C #, Visual Basic, ASP.NET ASP.NET Core, WCF), web technologies (Jquery, AJAX, JavaScript, Angular, MVC client, MVVM) and some experience with JAVA 8, mobile applications and including migrations from VB6 to .NET. I also have experience working in the processes of quality control and assurance.
+I’m Maykool Jimenez. I live in Costa Rica, with my wife,three children and two dogs. A Software developer since 2007 who works as an outsourcer with American clients in different industries (banking, finance, insurance, medical care, etc.), with technologies like .Net (C #, Visual Basic, ASP.NET ASP.NET Core), JAVA (Nhibernate, Sprint boot, Apache POI), web frond end (Jquery, Type Script , Angular, Sass, etc.), databases (SQL Server, Oracle, Mongo, etc.) and some experience with mobile applications. I also have experience on migrations from VB6 to .NET. and quality control and assurance processes.
 
 I have been working with with agile methodologies such as scrum and safe since 2010 and I love them ♡.
 
